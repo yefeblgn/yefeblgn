@@ -20,7 +20,7 @@ const efe = {
     university: "Mehmet Akif Ersoy Üniversitesi",
     department: "Bilgisayar Programcılığı",
     passions: ["Oyun Geliştirme", "Web Development", "3D Printing", "Smart Home"],
-    currentFocus: "Minecraft Plugin Development & Web Applications",
+    currentFocus: "AI Development, Web & Desktop Applications & Game Development",
     listeningTo: "Tame Impala on repeat 🎵"
 };
 ```
