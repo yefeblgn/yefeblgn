@@ -72,7 +72,11 @@ const efe = {
 
 <div align="center">
 
-[![Spotify]([https://spotify-github-profile.kittinanx.com/api/view?uid=eey50kcey2qy4pnn7xpyr54a2&cover_image=true&theme=default&show_offline=false&background_color=0a0a0f&interchange=true&bar_color=8b5cf6&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=eey50kcey2qy4pnn7xpyr54a2&redirect=true](https://spotify-github-profile.kittinanx.com/api/view?uid=eey50kcey2qy4pnn7xpyr54a2&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false))
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=eey50kcey2qy4pnn7xpyr54a2&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
 </div>
 
