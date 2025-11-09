@@ -163,8 +163,8 @@ const efe = {
 Proje fikirleri, işbirlikleri veya sadece merhaba demek için:
 
 - 💼 Website: [yefeblgn.net](https://yefeblgn.net)
-- 📧 Email: İletişim formunu kullanabilirsin
-- 🎮 Discord: Profilimde bulabilirsin
+- 📧 Email: yefeblgn@gmail.com
+- 🎮 Discord: yefeblgn
 
 ---
 
