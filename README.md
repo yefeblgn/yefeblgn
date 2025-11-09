@@ -2,7 +2,7 @@
   
 # 👋 Selam, Ben Efe Bilgin
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=yefeblgn;Full+Stack+Developer;Game+Developer;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=yefeblgn;aşırı+havalı+bir+yazı;Game+Developer;Web+Developer" alt="Typing SVG" />
 
 </div>
 
