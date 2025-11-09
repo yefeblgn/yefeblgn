@@ -146,7 +146,11 @@ const efe = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_bg=0a0a0f&border_color=2a2a35)
+<img src="https://img.shields.io/badge/💭_Motto-8B5CF6?style=for-the-badge&logoColor=white" />
+
+**"Çok zor ya..."**
+
+*— Murat Ediz Erim*
 
 </div>
 
