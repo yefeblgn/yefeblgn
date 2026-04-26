@@ -170,16 +170,6 @@ An **intelligent web assistant** powered by AI integration, designed for seamles
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=yefeblgn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&bg_color=0a0a0f&title_color=8b5cf6&text_color=e5e5ea&border_color=2a2a35)
-
-</div>
-
----
-
 ## Now Playing
 
 <div align="center">
