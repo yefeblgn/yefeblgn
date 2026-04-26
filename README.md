@@ -1,26 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Efe%20Bilgin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%7C%20Game%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=56&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Y.%20Efe%20Bilgin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Founder%20%40%20BLGN%20Studios%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=56&descAlign=50" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+things+that+matter.;Game+Developer+%7C+Web+Developer;Minecraft+Plugin+%26+Mod+Author;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+the+future+with+AI.;Founder+%40+BLGN+Studios;Creator+of+MiraAI+%E2%80%94+Advanced+Multimodal+AI;Full-Stack+%7C+AI+Engineer+%7C+Architect." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a **19-year-old Computer Programming student** at Mehmet Akif Ersoy University, Turkey. Passionate about building robust software, game modding, and contributing to open-source projects. I write code to the sound of **Tame Impala** 🎧
+I'm **Y. Efe Bilgin** — founder of **[BLGN Studios](https://yefeblgn.net)** and the creator of **MiraAI**, an advanced multimodal AI model launched globally in 2026. With 11+ years of hands-on experience across 50+ projects, I build high-performance software at the intersection of AI, full-stack engineering, and cybersecurity.
+
+For me, writing code has never been just a technical skill — it's been my way of understanding and rebuilding the world since childhood.
 
 ```typescript
-const efe: Developer = {
-  pronouns : "he/him",
-  location  : "Turkey 🇹🇷",
-  university: "Mehmet Akif Ersoy University — Computer Programming",
-  focus     : ["Game Development", "Web Development", "AI Applications"],
-  building  : ["Minecraft anticheat system", "AnimeKesitleri platform"],
-  interests : ["3D Printing", "Smart Home Automation", "Open Source"],
-  openTo    : "Collaborations & interesting projects",
+const efe: Architect = {
+  role     : "Founder & Technology Architect",
+  company  : "BLGN Studios",
+  location : "Turkey 🇹🇷",
+  flagship : "MiraAI — Advanced Multimodal AI Model",
+  stack    : ["React", "Next.js", "TypeScript", "Node.js", "Python", "C#", "C++"],
+  domains  : ["AI Engineering", "Full-Stack", "Cybersecurity", "System Architecture"],
+  openTo   : "Partnerships, collaborations & visionary projects",
+  website  : "yefeblgn.net",
 };
 ```
 
@@ -30,37 +33,48 @@ const efe: Developer = {
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-**Languages**
+**Frontend**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-**Frameworks & Platforms**
+**Data & Infra**
 
-![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge&logo=minecraft&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-**Tools & Workflow**
+**Security & Tooling**
 
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </td>
 </tr>
@@ -68,64 +82,68 @@ const efe: Developer = {
 
 ---
 
-## Featured Projects
+## Flagship Project
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🤖 MiraAI
+**Advanced Multimodal Artificial Intelligence**
+
+[![MiraAI](https://img.shields.io/badge/Live-mira.yefeblgn.net-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mira.yefeblgn.net)
+[![Updates](https://img.shields.io/badge/Changelog-mira.yefeblgn.net/updates-6D28D9?style=for-the-badge&logo=rss&logoColor=white)](https://mira.yefeblgn.net/updates)
+
+> MiraAI is the culmination of ~4 years of disciplined R&D — a multimodal AI model  
+> launched globally in 2026 under **BLGN Studios**. Designed not just to answer,  
+> but to reason, create, and integrate seamlessly into real-world ecosystems.
+
+`Python` `Node.js` `TypeScript` `Next.js` `Prompt Engineering` `AI Integration`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Other Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 MineciX Launcher
-A custom **JavaFX-based Minecraft launcher** with automatic version management and Fabric mod loader integration.
+### 💬 Personal Chatbot
+An **intelligent web assistant** powered by AI integration, designed for seamless embedding into any website.
 
-`Java` `JavaFX` `Maven`
+`Node.js` `TypeScript` `AI Integration`
 
-- Automatic download & version control
-- Fabric mod loader integration
-- Built-in mod manager with dark UI
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 MineciX Client
-A **Minecraft modification** featuring secure AutoLogin functionality with multi-server support.
-
-`Java` `Minecraft Forge`
-
-- Secure credential management
-- Multi-server profile support
-- Seamless background authentication
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Learning Platform
-A **modern web LMS** with a YouTube-style video player and Google Drive-style PDF viewer.
-
-`PHP` `JavaScript` `MySQL`
-
-- Custom video streaming engine
-- Fully mobile-responsive
-- Dark theme UI (Gray / Black / Purple)
+- Context-aware conversational AI
+- Embeddable widget architecture
+- Optimized response latency
 
 </td>
 <td width="50%" valign="top">
 
-### 🎁 Minecraft Crate Plugin
-A **fully customizable loot crate plugin** with an advanced animation engine for Minecraft servers.
+### 🌐 Custom Web Systems
+**End-to-end full-stack platforms** tailored for complex business requirements.
 
-`Java` `Spigot API`
+`React` `Next.js` `PostgreSQL` `Node.js`
 
-- Advanced particle animation system
-- Configurable reward tables
-- Multi-language support
+- Microservice-ready architecture
+- Performance-first engineering
+- Dark, modern UI/UX design
 
 </td>
 </tr>
 </table>
 </div>
+
+> 📂 Full project list at **[yefeblgn.net](https://yefeblgn.net)**
 
 ---
 
@@ -162,17 +180,6 @@ A **fully customizable loot crate plugin** with an advanced animation engine for
 
 ---
 
-## Currently Working On
-
-| Project | Description | Status |
-|:--------|:------------|:------:|
-| 🛡️ Minecraft Anticheat | Advanced server-side anticheat system | 🔨 In Progress |
-| 📱 AnimeKesitleri | Social media platform for anime fans | 🚧 Building |
-| 🌐 Personal Website | Rebuilding yefeblgn.net | 🔄 Updating |
-| 🎮 Minecraft 1.21.1 Plugins | New generation plugin development | 🔨 In Progress |
-
----
-
 ## Now Playing
 
 <div align="center">
@@ -187,13 +194,14 @@ A **fully customizable loot crate plugin** with an advanced animation engine for
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/yefeblgn.net-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yefeblgn.net)
+[![Portfolio](https://img.shields.io/badge/yefeblgn.net-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yefeblgn.net)
+[![MiraAI](https://img.shields.io/badge/MiraAI-6D28D9?style=for-the-badge&logo=openai&logoColor=white)](https://mira.yefeblgn.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yefeblgn)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yefeblgn)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/yefeblgn)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yefeblgn)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/yefeblgn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yefeblgn@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yefeblgn)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yefeblgn)
+[![Email](https://img.shields.io/badge/yefeblgn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yefeblgn@gmail.com)
 
 </div>
 
