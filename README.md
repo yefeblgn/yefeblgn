@@ -10,7 +10,7 @@
 
 ## About
 
-I'm **Y. Efe Bilgin** — founder of **[BLGN Studios](https://yefeblgn.net)** and the creator of **MiraAI**, an advanced multimodal AI model launched globally in 2026. With 11+ years of hands-on experience across 50+ projects, I build high-performance software at the intersection of AI, full-stack engineering, and cybersecurity.
+I'm **Efe Bilgin** — founder of **[BLGN Studios](https://yefeblgn.net)** and the creator of **MiraAI**, an advanced multimodal AI model launched globally in 2026. With 11+ years of hands-on experience across 50+ projects, I build high-performance software at the intersection of AI, full-stack engineering, and cybersecurity.
 
 For me, writing code has never been just a technical skill — it's been my way of understanding and rebuilding the world since childhood.
 
